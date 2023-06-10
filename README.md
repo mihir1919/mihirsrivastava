@@ -1,2 +1,0 @@
-# mihirsrivastava
-My Resume Website
