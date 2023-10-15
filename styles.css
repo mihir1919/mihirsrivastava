@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    background-color: black;
     box-sizing: border-box;
   }
 
@@ -369,3 +370,7 @@
   justify-content: center;
 }
 
+
+.wrapper{
+  width: 100%;
+}
